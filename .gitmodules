@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "openaistream"]
 	path = openaistream
-	url = https://github.com/cran/openaistream
+	url = https://github.com/libingfei/openaistream
